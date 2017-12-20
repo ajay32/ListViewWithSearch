@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/macmine/Downloads/AndroidListViewWithSearch1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/macmine/Downloads/AndroidListViewWithSearch1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/macmine/Downloads/AndroidListViewWithSearch1/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/macmine/Downloads/AndroidListViewWithSearch1/app/src/main/res/layout/list_item.xml"
+    }
+]
